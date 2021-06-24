@@ -1,2 +1,1 @@
-# KlaytnWallet
-Klaytn Wallet TRCL
+# Klaytn Wallet TRCL
